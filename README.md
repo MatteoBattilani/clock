@@ -10,7 +10,7 @@
 -JS
 
 
-𝐋𝐈𝐕𝐄 𝐃𝐄𝐌𝐎 --> [Calculator](https://matteobattilani.github.io/clock/)
+𝐋𝐈𝐕𝐄 𝐃𝐄𝐌𝐎 --> [Clock](https://matteobattilani.github.io/clock/)
 
 
 𝐃𝐢𝐬𝐜𝐥𝐚𝐢𝐦𝐞𝐫
